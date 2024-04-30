@@ -2,14 +2,14 @@
 # Step 0
 # In this project, my topic question will be: Whether M&A
 # activity creates or destroys shareholder value in the 
-# oil and gas industry between the years 2010-2020
+# US economy between the years 2014-2024
 # I will be looking at the cumulative abnormal returns
 # around the companies within this industry
 
 # Step 1 - Downloading data from WRDS and Yahoo Finance
 # In this step, I will be downloading M&A data from Thomson
 # Reuters on WRDS and stock price data before, during, and 
-# after M&A activity for oil and gas companies with YFinance
+# after M&A activity for US companies with YFinance
 
 #%% Step 1 - Connect to WRDS and download packages
 import wrds
